@@ -7,6 +7,12 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+Alert.tsx
+Board.tsx
+Cell.tsx
+ListGroup.tsx
+MyButton.tsx
+
 node_modules
 dist
 dist-ssr
